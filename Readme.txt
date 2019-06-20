@@ -1,0 +1,1 @@
+The featured function seems not to work as required 
